@@ -2,7 +2,7 @@
 Makes it easier to handle ANSI escapes. Basically a set of methods that return the correct escapes which can be based of dynamically passed parameters.
 
 ```ts
-import { indentLines } from "https://deno.land/x/cape/mod.ts"
+import { escapes } from "https://deno.land/x/escapes/mod.ts"
 
 escapes.link("https://example.com/", "text"),
 // "\u001B]8;;https://example.com/\u0007text\u001B]8;;\u0007"
