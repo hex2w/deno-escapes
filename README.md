@@ -25,3 +25,5 @@ eraseLines(4),
 
 // ...
 ```
+
+Inspired by [ansi-escapes](https://github.com/sindresorhus/ansi-escapes) by Sindre Sorhus <sindresorhus@gmail.com>
