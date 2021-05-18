@@ -1,3 +1,5 @@
+// Copyright 2021 hex3928 (https://github.com/hex3928). All rights reserved. MIT license.
+
 const ESC = "\u001B["
 const OSC = "\u001B]"
 const BEL = "\u0007"
